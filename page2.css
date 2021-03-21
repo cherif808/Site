@@ -1,0 +1,340 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: orange;
+	list-style: none;
+
+}
+.entete{
+	width: 	100%;
+	position: absolute;
+	background-color: #005687;
+}
+.entete .tout{
+	width: 1300px;
+	display: flex;	
+	justify-content:space-between;	
+	align-content: 	center;	
+	margin: 20px auto;
+
+
+}
+.logo a{
+	color: 	#fff;
+	font-size:40px;
+	font-weight:500;
+}
+.logo a span{
+	font-family: algerian;
+	color: 	#000;
+}
+
+.moi{
+	padding-top: 10px;
+}
+.moi li{
+	display:inline-block;	
+}
+.moi li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+}
+.moi li a:hover{
+	color: black;
+}
+.menu{
+	padding-top: 10px;
+	padding-left: 250px;
+	padding-right: 150px;
+	text-align: center;
+}
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	
+
+}
+.menu li a:hover{
+	color: black;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display:inline-block;
+	padding-right: 1000px;
+
+}
+.sous li{
+	border: 2px solid gray;
+	width: 150px;
+	background-color: gray;
+	position: flex;
+}.moi{
+	padding-top: 10px;
+}
+.moi li{
+	display:inline-block;	
+}
+.moi li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+}
+.moi li a:hover{
+	color: black;
+}
+.menu{
+	padding-top: 10px;
+	padding-left: 250px;
+	padding-right: 150px;
+	text-align: center;
+}
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	
+
+}
+.menu li a:hover{
+	color: black;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display:inline-block;
+	padding-right: 1000px;
+
+}
+.sous li{
+	border: 2px solid gray;
+	width: 150px;
+	background-color: gray;
+	position: flex;
+}
+.see{
+	height:200px;
+	width: 200px;
+	border:5px ;
+    text-align: center;
+    margin-left: 200px;
+      margin-bottom: 80px;
+      background-color: pink;
+}
+.se{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+	text-align:center;
+	margin-right: 0px;
+	margin-left: 200px;
+	  margin-bottom: 800px;
+	  background-color: pink;
+}
+#sss{
+     font-size: 50px;
+}
+#ssss{
+     font-size: 28px;
+}
+.so{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+     text-align: center;
+     margin-right: 10px;
+     margin-bottom:80px; 
+     margin-left: 170px;
+}
+#s{
+     font-size: 26px;
+ }
+ .home{
+	margin:50px 150px;
+}
+.home .vent{
+	font-size: 80px;
+	font-weight: 150px;
+	font-family: orange;
+	color:blue;
+}
+.home{
+	display: flex;
+
+}
+
+#seu{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+	border-radius: 10%;
+	background-color:#ffecea;
+	text-align:center;
+	margin-left: 100px;
+}
+.seeu{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+	border-radius: 10%;
+	background-color:#ffecea;
+text-align: center;
+margin-left: 100px;
+}
+.su{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+	border-radius: 10%;
+	background-color:#ffecea;
+text-align: center;	
+ margin-left: 100px;
+}
+.sor{
+		height: 200px;
+	width: 200px;
+	border:5px ;
+	border-radius: 10%;
+	background-color:#ffecea;
+text-align: center;
+margin-left: 100px;
+}
+
+.home{
+	margin:50px 150px;
+}
+.home .vente{
+	font-size: 60px;
+	font-weight: 150px;
+	font-family: algerian;
+	color:blue;
+}
+.home{
+	display: flex;
+
+}
+.my{
+	height:750px;
+	padding-right:500px;
+	background: url('Sans titre-1.png');
+	display: flex;
+}
+.feca{
+	font-size: 25px;
+	padding-top: 50px;
+	color:blue;
+	font-family:orange;
+}
+.cxcx{
+	font-size: 30px;
+	font-weight: 150px;
+	text-align: center;
+}
+.qwqw{
+	font-weight: 150px;
+	color:blue;
+	text-align: center;
+	font-size: 30px;
+}
+.bvbv{
+	color: blue;
+	height: 200px;
+	width: 200px;
+	text-align:center;
+	margin-left: 100px;
+	font-size: 15px;
+}
+.vdvd{
+	height: 50px;
+	width: 200px;
+}
+.bvbe{
+	color: black;
+}
+.vdve{
+	color: black;
+}
+#moo{
+	background-color: crimson;
+	text-align: center;
+
+}
+.xwxw{
+	display: flex;
+}
+.rrr{
+	text-align: center;
+	font-family: algerian;
+	font-size: 50px;
+	color: crimson;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.rolls{
+		margin-right: 35px;
+		margin-left: 35px;
+		font-size: 25px;
+}
+.mercedes{
+	margin-right: 35px;
+	margin-left:35px;
+}
+.camaro{
+	margin-right: 35px;
+	margin-left:35px;
+	border-radius: 20px;
+}
+.merco{
+	margin-left: 250px;
+	font-size: 25px;
+}
+.ssss{
+	display:flex;
+}
+.roll{
+	margin-left: 50px;
+}
+.camar{
+	margin-left: 220px;
+	font-size: 25px;
+}
+.rr{
+	margin-top: 25px;
+	text-align: center;
+	font-family: algerian;
+	font-size: 50px;
+	color: crimson;
+}
+.klkl{
+	display: flex;
+	margin-top: 50px;
+}
+.swsw{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.vcvc{
+	margin-left: 50px;
+}

@@ -1,0 +1,120 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: orange;
+	list-style: none;
+
+}
+.entete{
+	width: 	100%;
+	position: absolute;
+	background-color: #005687;
+}
+.entete .tout{
+	width: 1300px;
+	display: flex;	
+	justify-content:space-between;	
+	align-content: 	center;	
+	margin: 20px auto;
+
+
+}
+.logo a{
+	color: 	#fff;
+	font-size:40px;
+	font-weight:500;
+}
+.logo a span{
+	color: 	#000;
+	font-family: algerian;
+}
+
+.moi{
+	padding-top: 10px;
+}
+.moi li{
+	display:inline-block;	
+}
+.moi li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+}
+.moi li a:hover{
+	color: black;
+}
+.menu{
+	padding-top: 10px;
+	padding-left: 250px;
+	padding-right: 150px;
+	text-align: center;
+}
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	
+
+}
+.menu li a:hover{
+	color: black;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display:inline-block;
+	padding-right: 1000px;
+
+}
+.sous li{
+	border: 2px solid gray;
+	width: 150px;
+	background-color: gray;
+	position: flex;
+}
+.dddd{
+	background: url('oil.png');
+	height: 750px;
+}
+.gggg{
+	display: flex;
+	margin-top: 50px;
+}
+.bbbb{
+	margin-left: 60px;
+}
+.ssss{
+	font-size: 40px;
+	margin-left: 70px;
+}
+.laye{
+	margin-left: 70px;
+	margin-top: 70px;
+	font-size: 20px;
+}
+.ggg{
+	display: flex;
+	margin-top: 50px;
+}
+.bbb{
+	margin-left: 100px;
+}
+#moo{
+	background-color: crimson;
+	text-align: center;
+}
+.lay{
+	margin-left: 70px;
+	margin-top: 100px;
+	font-size: 20px;
+}

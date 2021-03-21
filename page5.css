@@ -1,0 +1,144 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: orange;
+	list-style: none;
+
+}
+.entete{
+	width: 	100%;
+	position: absolute;
+	background-color: #005687;
+}
+.entete .tout{
+	width: 1300px;
+	display: flex;	
+	justify-content:space-between;	
+	align-content: 	center;	
+	margin: 20px auto;
+
+
+}
+.logo a{
+	color: 	#fff;
+	font-size:40px;
+	font-weight:500;
+}
+.logo a span{
+	color: 	#000;
+	font-family: algerian;
+}
+
+.moi{
+	padding-top: 10px;
+}
+.moi li{
+	display:inline-block;	
+}
+.moi li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+}
+.moi li a:hover{
+	color: black;
+}
+.menu{
+	padding-top: 10px;
+	padding-left: 250px;
+	padding-right: 150px;
+	text-align: center;
+}
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	
+
+}
+.menu li a:hover{
+	color: black;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display:inline-block;
+	padding-right: 1000px;
+
+}
+.sous li{
+	border: 2px solid gray;
+	width: 150px;
+	background-color: gray;
+	position: flex;
+}
+.cdcd{
+	height: 750px;
+	background: url('equip.png');
+}
+.rere{
+	text-align: center;
+	font-size: 25px;
+	color: blue;
+	margin-bottom: 50px;
+}
+.qeqe{
+	display: flex;
+}
+.cxcx{
+	margin-left: 50px;
+}
+.asas{
+	margin-left: 50px;
+}
+.qaqa{
+	margin-left: 100px;
+}
+.wwww{
+	display: flex;
+	font-size: 25px;
+}
+.trtr{
+	margin-left: 60px;
+}
+.azaz{
+	margin-left: 350px;
+}
+.tyty{
+	margin-left: 250px;
+}
+.qeq{
+	display: flex;
+	margin-top: 50px;
+}
+.cxc{
+	margin-left: 50px;
+}
+.aza{
+	margin-left: 150px;
+}
+.www{
+	display: flex;
+	font-size: 25px;
+}
+.as{
+	margin-left: 50px;
+}
+.tyt{
+	margin-left: 350px;
+}
+#moo{
+	background-color: crimson;
+	text-align: center;
+	margin-top: 25px;
+}

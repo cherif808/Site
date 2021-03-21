@@ -1,0 +1,168 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: orange;
+	list-style: none;
+
+}
+.entete{
+	width: 	100%;
+	position: absolute;
+	background-color: #005687;
+}
+.entete .tout{
+	width: 1300px;
+	display: flex;	
+	justify-content:space-between;	
+	align-content: 	center;	
+	margin: 20px auto;
+
+
+}
+.logo a{
+	color: 	#fff;
+	font-size:40px;
+	font-weight:500;
+}
+.logo a span{
+	color: 	#000;
+	font-family: algerian;
+}
+
+.moi{
+	padding-top: 10px;
+}
+.moi li{
+	display:inline-block;	
+}
+.moi li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+}
+.moi li a:hover{
+	color: black;
+}
+.menu{
+	padding-top: 10px;
+	padding-left: 250px;
+	padding-right: 150px;
+	text-align: center;
+}
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	
+
+}
+.menu li a:hover{
+	color: black;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display:inline-block;
+	padding-right: 1000px;
+
+}
+.sous li{
+	border: 2px solid gray;
+	width: 150px;
+	background-color: gray;
+	position: flex;
+}
+.my{
+	height:750px;
+	padding-right:500px;
+	background: url('abg.png');
+	display: flex;
+}
+.home{
+	margin:50px 150px;
+}
+.home .vente{
+	font-size: 60px;
+	font-weight: 150px;
+	font-family: algerian;
+	color:orange;
+}
+.home{
+	display: flex;
+
+}
+.img{
+	
+	height:350px; 
+	width:100%; 
+}
+.child-left{
+	width: 350%;
+	height: 350px;
+}
+
+.child-right{
+	width: 0px;
+	height: 450px;
+	background-color: gray;
+	margin-left: 15px;
+	padding-right: 150px;
+	margin-right: none;
+}
+.child-4{
+  
+}
+#moo{
+	background-color: crimson;
+	text-align: center;
+}
+#see{
+	height:200px;
+	width: 200px;
+	border:5px ;
+    text-align: center;
+    margin-left: 200px;
+      margin-bottom: 80px;
+}
+#se{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+	
+	text-align:center;
+	margin-right: 10px;
+	margin-left: 150px;
+	  margin-bottom: 80px;
+}
+#sss{
+     font-size: 30px;
+}
+#ssss{
+     font-size: 28px;
+}
+#so{
+	height: 200px;
+	width: 200px;
+	border:5px ;
+
+     text-align: center;
+     margin-right: 10px;
+     margin-bottom:80px; 
+     margin-left: 170px;
+}
+.bbbx{
+	margin-right: 2500px;
+}
+
+
+
